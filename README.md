@@ -2,7 +2,7 @@
 
 This repository contains a collection of useful PDFs and files for projects at 42 School. It serves as a centralized resource for accessing subject PDFs related to various ranks and modules.
 
-## Table of Contents
+## Table of Contents 📑
 
 - [Subjects](#subjects)
   - [Rank 00](#rank-00)
@@ -13,7 +13,7 @@ This repository contains a collection of useful PDFs and files for projects at 4
   - [Rank 05](#rank-05)
   - [Rank 06](#rank-06)
 
-## Subjects
+## Subjects 📚
 
 The following sections provide links to subject PDFs organized by their respective ranks.
 
@@ -72,6 +72,6 @@ The following sections provide links to subject PDFs organized by their respecti
 
 - [ft_transcendence](Subjects/Rank06/ft_transcendence/en.subject.pdf)
 
-## Notes
+## Notes 📝
 
 - For each project, both English and French versions of the subject PDFs are available in the same folder.
