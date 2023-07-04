@@ -56,6 +56,8 @@ The following sections provide links to subject PDFs organized by their respecti
 - [CPP08](Subjects/Rank04/CPP_Modules/CPP08/en.subject.pdf)
 - [CPP09](Subjects/Rank04/CPP_Modules/CPP09/en.subject.pdf)
 
+#### Others
+
 - [cub3d](Subjects/Rank04/cub3d/en.subject.pdf)
 - [miniRT](Subjects/Rank04/miniRT/en.subject.pdf)
 - [NetPractice](Subjects/Rank04/NetPractice/en.subject.pdf)
