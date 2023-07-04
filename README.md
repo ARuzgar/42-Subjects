@@ -1,6 +1,10 @@
 # 42 School Projects
 
-This repository contains a collection of useful PDFs and files for projects at 42 School. It serves as a centralized resource for accessing subject PDFs related to various ranks and modules.
+Welcome to the 42 School Projects Repository! This repository serves as a comprehensive collection of useful PDFs and files for projects at 42 School. It provides easy access to subject PDFs for various ranks and modules during the cursus.
+
+Whether you're a student at 42 School or simply interested in exploring the projects, this repository is designed to be a centralized resource for accessing project materials. The subjects are organized by rank, and both English and French versions of the subject PDFs are available.
+
+Feel free to browse the repository and make use of the subject PDFs for your studies, references, or personal projects. Enjoy exploring the world of 42 School projects!
 
 ## Table of Contents 📑
 
