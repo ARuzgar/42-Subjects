@@ -3,7 +3,8 @@
 <p align="center">
   <a href="#table-of-contents-">Table of Contents</a> •
   <a href="#subjects-">Subjects</a> •
-  <a href="#notes-">Notess</a>
+  <a href="#related-repository-">Related Repository</a> •
+  <a href="#notes-">Notes</a>
 </p>
 
 <p align="center">
@@ -86,6 +87,9 @@ The following sections provide links to subject PDFs organized by their respecti
 ### Rank 06
 
 - [ft_transcendence](Subjects/Rank06/ft_transcendence/)
+
+## Related Repository 📂
+For a more comprehensive study, you can also check out the [42-Evals](https://github.com/rphlr/42-Evals) repository, which provides the official evaluation sheets for these projects. Visit the [42-Evals website](https://rphlr.github.io/42-Evals) for easy access and updates.
 
 ## Notes 📝
 
