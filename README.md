@@ -1,10 +1,19 @@
-# 42 School Projects
+# 42 School Project Subjects 📚
 
-Welcome to the 42 School Projects Repository! This repository serves as a comprehensive collection of useful PDFs and files for projects at 42 School. It provides easy access to subject PDFs for various ranks and modules during the cursus.
+<p align="center">
+  <a href="#table-of-contents-">Table of Contents</a> •
+  <a href="#subjects-">Subjects</a> •
+  <a href="#notes-">Notess</a>
+</p>
 
-Whether you're a student at 42 School or simply interested in exploring the projects, this repository is designed to be a centralized resource for accessing project materials. The subjects are organized by rank, and both English and French versions of the subject PDFs are available.
+<p align="center">
+	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rphlr/42-Subjects?color=green&logo=github&logoColor=green&style=flat-square">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rphlr/42-Subjects?color=green&logo=github&logoColor=green&style=flat-square">
+</p>
 
-Feel free to browse the repository and make use of the subject PDFs for your studies, references, or personal projects. Enjoy exploring the world of 42 School projects!
+Welcome to the repository for all official subject PDFs related to the 42 school curriculum projects. This repository serves as a comprehensive collection of project subjects, providing easy access to students and those interested in the 42 curriculum. The subjects are systematically organized by rank, and both English and French versions are available 🌐.
+
+For a more comprehensive study, you can also check out the 42-Evals repository, which provides the evaluation sheets for these projects.
 
 ## Table of Contents 📑
 
@@ -19,63 +28,66 @@ Feel free to browse the repository and make use of the subject PDFs for your stu
 
 ## Subjects 📚
 
-The following sections provide links to subject PDFs organized by their respective ranks.
+The following sections provide links to subject PDFs organized by their respective ranks. Both English and French versions of the subject PDFs are available in the same folder.
 
 ### Rank 00
 
-- [Libft](Subjects/Rank00/Libft/en.subject.pdf)
+- [Libft](Subjects/Rank00/Libft/)
 
 ### Rank 01
 
-- [born2beroot](Subjects/Rank01/born2beroot/en.subject.pdf)
-- [ft_printf](Subjects/Rank01/ft_printf/en.subject.pdf)
-- [get_next_line](Subjects/Rank01/get_next_line/en.subject.pdf)
+- [born2beroot](Subjects/Rank01/born2beroot/f)
+- [ft_printf](Subjects/Rank01/ft_printf/)
+- [get_next_line](Subjects/Rank01/get_next_line/)
 
 ### Rank 02
 
-- [FdF](Subjects/Rank02/FdF/en.subject.pdf)
-- [fract-ol](Subjects/Rank02/fract-ol/en.subject.pdf)
-- [minitalk](Subjects/Rank02/minitalk/en.subject.pdf)
-- [pipex](Subjects/Rank02/pipex/en.subject.pdf)
-- [push_swap](Subjects/Rank02/push_swap/en.subject.pdf)
-- [so_long](Subjects/Rank02/so_long/en.subject.pdf)
+- [FdF](Subjects/Rank02/FdF/)
+- [fract-ol](Subjects/Rank02/fract-ol/)
+- [minitalk](Subjects/Rank02/minitalk/)
+- [pipex](Subjects/Rank02/pipex/)
+- [push_swap](Subjects/Rank02/push_swap/)
+- [so_long](Subjects/Rank02/so_long/)
 
 ### Rank 03
 
-- [Minishell](Subjects/Rank03/Minishell/en.subject.pdf)
-- [Philosophers](Subjects/Rank03/Philosophers/en.subject.pdf)
+- [Minishell](Subjects/Rank03/Minishell/)
+- [Philosophers](Subjects/Rank03/Philosophers/)
 
 ### Rank 04
 
 #### CPP_Modules
 
-- [CPP00](Subjects/Rank04/CPP_Modules/CPP00/en.subject.pdf)
-- [CPP01](Subjects/Rank04/CPP_Modules/CPP01/en.subject.pdf)
-- [CPP02](Subjects/Rank04/CPP_Modules/CPP02/en.subject.pdf)
-- [CPP03](Subjects/Rank04/CPP_Modules/CPP03/en.subject.pdf)
-- [CPP04](Subjects/Rank04/CPP_Modules/CPP04/en.subject.pdf)
-- [CPP05](Subjects/Rank04/CPP_Modules/CPP05/en.subject.pdf)
-- [CPP06](Subjects/Rank04/CPP_Modules/CPP06/en.subject.pdf)
-- [CPP07](Subjects/Rank04/CPP_Modules/CPP07/en.subject.pdf)
-- [CPP08](Subjects/Rank04/CPP_Modules/CPP08/en.subject.pdf)
-- [CPP09](Subjects/Rank04/CPP_Modules/CPP09/en.subject.pdf)
+- [CPP00](Subjects/Rank04/CPP_Modules/CPP00/)
+- [CPP01](Subjects/Rank04/CPP_Modules/CPP01/)
+- [CPP02](Subjects/Rank04/CPP_Modules/CPP02/)
+- [CPP03](Subjects/Rank04/CPP_Modules/CPP03/)
+- [CPP04](Subjects/Rank04/CPP_Modules/CPP04/)
 
 #### Others
-
-- [cub3d](Subjects/Rank04/cub3d/en.subject.pdf)
-- [miniRT](Subjects/Rank04/miniRT/en.subject.pdf)
-- [NetPractice](Subjects/Rank04/NetPractice/en.subject.pdf)
+- [cub3d](Subjects/Rank04/cub3d/)
+- [miniRT](Subjects/Rank04/miniRT/)
+- [NetPractice](Subjects/Rank04/NetPractice/)
 
 ### Rank 05
 
-- [ft_irc](Subjects/Rank05/ft_irc/en.subject.pdf)
-- [Inception](Subjects/Rank05/Inception/en.subject.pdf)
-- [webserv](Subjects/Rank05/webserv/en.subject.pdf)
+#### CPP_Modules
+
+- [CPP05](Subjects/Rank04/CPP_Modules/CPP05/)
+- [CPP06](Subjects/Rank04/CPP_Modules/CPP06/)
+- [CPP07](Subjects/Rank04/CPP_Modules/CPP07/)
+- [CPP08](Subjects/Rank04/CPP_Modules/CPP08/)
+- [CPP09](Subjects/Rank04/CPP_Modules/CPP09/)
+
+- [ft_irc](Subjects/Rank05/ft_irc/)
+- [Inception](Subjects/Rank05/Inception/)
+- [webserv](Subjects/Rank05/webserv/)
 
 ### Rank 06
 
-- [ft_transcendence](Subjects/Rank06/ft_transcendence/en.subject.pdf)
+- [ft_transcendence](Subjects/Rank06/ft_transcendence/)
 
 ## Notes 📝
 
 - For each project, both English and French versions of the subject PDFs are available in the same folder.
+- Your feedback and suggestions for improvement are always welcome. Feel free to open an issue or submit a pull request. We look forward to hearing from you!
