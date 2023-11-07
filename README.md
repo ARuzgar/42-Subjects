@@ -23,12 +23,12 @@ So, grab a cup of coffee ☕, find a comfy spot, and start exploring the subject
 ### Rank 02
 | Project | English PDF | French PDF | Additional Resources |
 |---------|-------------|------------|----------------------|
-| FdF | [🇬🇧 en.subject.pdf](./Cursus/FdF/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/FdF/fr.subject.pdf) | [🔗 maps.zip, source files](./Cursus/FdF/) |
-| Fract-ol | [🇬🇧 en.subject.pdf](./Cursus/Fract-ol/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Fract-ol/fr.subject.pdf) | [🔗 minilibx files](./Cursus/Fract-ol/) |
+| FdF | [🇬🇧 en.subject.pdf](./Cursus/FdF/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/FdF/fr.subject.pdf) | [🔗 maps.zip, source files](./Cursus/FdF/Extras/) |
+| Fract-ol | [🇬🇧 en.subject.pdf](./Cursus/Fract-ol/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Fract-ol/fr.subject.pdf) | [🔗 minilibx files](./Cursus/Fract-ol/Extras/) |
 | Minitalk | [🇬🇧 en.subject.pdf](./Cursus/Minitalk/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Minitalk/fr.subject.pdf) | N/A |
 | Pipex | [🇬🇧 en.subject.pdf](./Cursus/Pipex/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Pipex/fr.subject.pdf) | N/A |
 | Push_swap | [🇬🇧 en.subject.pdf](./Cursus/Push_swap/en.subject.pdf) | N/A | N/A |
-| So_long | [🇬🇧 en.subject.pdf](./Cursus/So_long/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/So_long/fr.subject.pdf) | [🔗 minilibx files](./Cursus/So_long/) |
+| So_long | [🇬🇧 en.subject.pdf](./Cursus/So_long/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/So_long/fr.subject.pdf) | [🔗 minilibx files](./Cursus/So_long/Extras/) |
 
 ### Rank 03
 | Project | English PDF | French PDF | Additional Resources |
@@ -39,26 +39,26 @@ So, grab a cup of coffee ☕, find a comfy spot, and start exploring the subject
 ### Rank 04
 | Project | English PDF | French PDF | Additional Resources |
 |---------|-------------|------------|----------------------|
-| CPP Module 00 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP00/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/CPP_Module/CPP00/fr.subject.pdf) | [🔗 Test file, Account header](./Cursus/CPP_Module/CPP00/) |
-| CPP Module 01 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP01/en.subject.pdf) | N/A | N/A |
-| CPP Module 02 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP02/en.subject.pdf) | N/A | N/A |
-| CPP Module 03 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP03/en.subject.pdf) | N/A | N/A |
-| CPP Module 04 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP04/en.subject.pdf) | N/A | N/A |
-| Cub3d | [🇬🇧 en.subject.pdf](./Cursus/Cub3d/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Cub3d/fr.subject.pdf) | [🔗 minilibx files](./Cursus/Cub3d/) |
-| MiniRT | [🇬🇧 en.subject.pdf](./Cursus/MiniRT/en.subject.pdf) | N/A | [🔗 minilibx files](./Cursus/MiniRT/) |
-| NetPractice | [🇬🇧 en.subject.pdf](./Cursus/NetPractice/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/NetPractice/fr.subject.pdf) | [🔗 Practice files](./Cursus/NetPractice/) |
+| CPP Module 00 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP00/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/CPP_Modules/CPP00/fr.subject.pdf) | [🔗 Test file, Account header](./Cursus/CPP_Modules/CPP00/Extras/) |
+| CPP Module 01 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP01/en.subject.pdf) | N/A | N/A |
+| CPP Module 02 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP02/en.subject.pdf) | N/A | N/A |
+| CPP Module 03 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP03/en.subject.pdf) | N/A | N/A |
+| CPP Module 04 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP04/en.subject.pdf) | N/A | N/A |
+| Cub3d | [🇬🇧 en.subject.pdf](./Cursus/Cub3d/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Cub3d/fr.subject.pdf) | [🔗 minilibx files](./Cursus/Cub3d/Extras/) |
+| MiniRT | [🇬🇧 en.subject.pdf](./Cursus/MiniRT/en.subject.pdf) | N/A | [🔗 minilibx files](./Cursus/MiniRT/Extras/) |
+| NetPractice | [🇬🇧 en.subject.pdf](./Cursus/NetPractice/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/NetPractice/fr.subject.pdf) | [🔗 Practice files](./Cursus/NetPractice/Extras/) |
 
 ### Rank 05
 | Project | English PDF | French PDF | Additional Resources |
 |---------|-------------|------------|----------------------|
-| CPP Module 05 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP05/en.subject.pdf) | N/A | N/A |
-| CPP Module 06 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP06/en.subject.pdf) | N/A | N/A |
-| CPP Module 07 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP07/en.subject.pdf) | N/A | [🔗 Main file](./Cursus/CPP_Module/CPP07/) |
-| CPP Module 08 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP08/en.subject.pdf) | N/A | N/A |
-| CPP Module 09 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP09/en.subject.pdf) | N/A | [🔗 Compressed project file](./Cursus/CPP_Module/CPP09/) |
-| Ft_irc | [🇬🇧 en.subject.pdf](./Cursus/Ft_irc/en.subject.pdf) | N/A | [🔗 IRC server file](./Cursus/Ft_irc/) |
+| CPP Module 05 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP05/en.subject.pdf) | N/A | N/A |
+| CPP Module 06 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP06/en.subject.pdf) | N/A | N/A |
+| CPP Module 07 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP07/en.subject.pdf) | N/A | [🔗 Main file](./Cursus/CPP_Modules/CPP07/Extras/) |
+| CPP Module 08 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP08/en.subject.pdf) | N/A | N/A |
+| CPP Module 09 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP09/en.subject.pdf) | N/A | [🔗 Compressed project file](./Cursus/CPP_Modules/CPP09/Extras/) |
+| Ft_irc | [🇬🇧 en.subject.pdf](./Cursus/Ft_irc/en.subject.pdf) | N/A | [🔗 IRC server file](./Cursus/Ft_irc/Extras/) |
 | Inception | [🇬🇧 en.subject.pdf](./Cursus/Inception/en.subject.pdf) | N/A | N/A |
-| Webserv | [🇬🇧 en.subject.pdf](./Cursus/Webserv/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Webserv/fr.subject.pdf) | [🔗 Testers](./Cursus/Webserv/) |
+| Webserv | [🇬🇧 en.subject.pdf](./Cursus/Webserv/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Webserv/fr.subject.pdf) | [🔗 Testers](./Cursus/Webserv/Extras/) |
 
 ### Rank 06
 | Project | English PDF | French PDF | Additional Resources |
