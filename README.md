@@ -67,7 +67,7 @@ So, grab a cup of coffee ☕, find a comfy spot, and start exploring the subject
 
 ### Additional Learning Resources
 
-For a comprehensive understanding of project requirements, the [42-Evals](https://github.com/42-Evals) repository is an invaluable resource. It contains official evaluation sheets for 42 School projects that complement the materials found here. You can also view these resources through their [GitHub Pages](https://rphlr.github.io/42-Evals).
+For a comprehensive understanding of project requirements, the [42-Evals](https://github.com/rphlr/42-Evals) repository is an invaluable resource. It contains official evaluation sheets for 42 School projects that complement the materials found here. You can also view these resources through my [GitHub Pages](https://rphlr.github.io/42-Evals).
 
 Remember, this repository is constantly evolving, and I welcome your contributions to keep it up-to-date. If you find a project PDF missing or want to add an other language version, don't hesitate to open a pull request!
 
