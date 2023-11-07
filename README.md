@@ -11,30 +11,30 @@ So, grab a cup of coffee ☕, find a comfy spot, and start exploring the subject
 ### Rank 00
 | Project | English PDF | French PDF | Additional Resources |
 |---------|-------------|------------|----------------------|
-| Libft | [🇬🇧 en.subject.pdf](./Cursus/Libft/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Libft/fr.subject.pdf) | N/A |
+| Libft | [🇬🇧 en.subject.pdf](./Cursus/libft/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/libft/fr.subject.pdf) | N/A |
 
 ### Rank 01
 | Project | English PDF | French PDF | Additional Resources |
 |---------|-------------|------------|----------------------|
 | Born2beroot | [🇬🇧 en.subject.pdf](./Cursus/Born2beroot/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Born2beroot/fr.subject.pdf) | N/A |
-| Ft_printf | [🇬🇧 en.subject.pdf](./Cursus/Ft_printf/en.subject.pdf) | N/A | N/A |
-| Get_next_line | [🇬🇧 en.subject.pdf](./Cursus/Get_next_line/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Get_next_line/fr.subject.pdf) | N/A |
+| Ft_printf | [🇬🇧 en.subject.pdf](./Cursus/ft_printf/en.subject.pdf) | N/A | N/A |
+| Get_next_line | [🇬🇧 en.subject.pdf](./Cursus/get_next_line/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/get_next_line/fr.subject.pdf) | N/A |
 
 ### Rank 02
 | Project | English PDF | French PDF | Additional Resources |
 |---------|-------------|------------|----------------------|
 | FdF | [🇬🇧 en.subject.pdf](./Cursus/FdF/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/FdF/fr.subject.pdf) | [🔗 maps.zip, source files](./Cursus/FdF/Extras/) |
-| Fract-ol | [🇬🇧 en.subject.pdf](./Cursus/Fract-ol/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Fract-ol/fr.subject.pdf) | [🔗 minilibx files](./Cursus/Fract-ol/Extras/) |
-| Minitalk | [🇬🇧 en.subject.pdf](./Cursus/Minitalk/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Minitalk/fr.subject.pdf) | N/A |
-| Pipex | [🇬🇧 en.subject.pdf](./Cursus/Pipex/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Pipex/fr.subject.pdf) | N/A |
-| Push_swap | [🇬🇧 en.subject.pdf](./Cursus/Push_swap/en.subject.pdf) | N/A | N/A |
-| So_long | [🇬🇧 en.subject.pdf](./Cursus/So_long/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/So_long/fr.subject.pdf) | [🔗 minilibx files](./Cursus/So_long/Extras/) |
+| Fract-ol | [🇬🇧 en.subject.pdf](./Cursus/fract-ol/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/fract-ol/fr.subject.pdf) | [🔗 minilibx files](./Cursus/fract-ol/Extras/) |
+| Minitalk | [🇬🇧 en.subject.pdf](./Cursus/minitalk/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/minitalk/fr.subject.pdf) | N/A |
+| Pipex | [🇬🇧 en.subject.pdf](./Cursus/pipex/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/pipex/fr.subject.pdf) | N/A |
+| Push_swap | [🇬🇧 en.subject.pdf](./Cursus/push_swap/en.subject.pdf) | N/A | N/A |
+| So_long | [🇬🇧 en.subject.pdf](./Cursus/so_long/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/so_long/fr.subject.pdf) | [🔗 minilibx files](./Cursus/so_long/Extras/) |
 
 ### Rank 03
 | Project | English PDF | French PDF | Additional Resources |
 |---------|-------------|------------|----------------------|
-| Minishell | [🇬🇧 en.subject.pdf](./Cursus/Minishell/en.subject.pdf) | N/A | N/A |
-| Philosophers | [🇬🇧 en.subject.pdf](./Cursus/Philosophers/en.subject.pdf) | N/A | N/A |
+| Minishell | [🇬🇧 en.subject.pdf](./Cursus/minishell/en.subject.pdf) | N/A | N/A |
+| Philosophers | [🇬🇧 en.subject.pdf](./Cursus/philosophers/en.subject.pdf) | N/A | N/A |
 
 ### Rank 04
 | Project | English PDF | French PDF | Additional Resources |
@@ -44,8 +44,8 @@ So, grab a cup of coffee ☕, find a comfy spot, and start exploring the subject
 | CPP Module 02 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP02/en.subject.pdf) | N/A | N/A |
 | CPP Module 03 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP03/en.subject.pdf) | N/A | N/A |
 | CPP Module 04 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP04/en.subject.pdf) | N/A | N/A |
-| Cub3d | [🇬🇧 en.subject.pdf](./Cursus/Cub3d/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Cub3d/fr.subject.pdf) | [🔗 minilibx files](./Cursus/Cub3d/Extras/) |
-| MiniRT | [🇬🇧 en.subject.pdf](./Cursus/MiniRT/en.subject.pdf) | N/A | [🔗 minilibx files](./Cursus/MiniRT/Extras/) |
+| Cub3d | [🇬🇧 en.subject.pdf](./Cursus/cub3d/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/cub3d/fr.subject.pdf) | [🔗 minilibx files](./Cursus/cub3d/Extras/) |
+| MiniRT | [🇬🇧 en.subject.pdf](./Cursus/miniRT/en.subject.pdf) | N/A | [🔗 minilibx files](./Cursus/miniRT/Extras/) |
 | NetPractice | [🇬🇧 en.subject.pdf](./Cursus/NetPractice/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/NetPractice/fr.subject.pdf) | [🔗 Practice files](./Cursus/NetPractice/Extras/) |
 
 ### Rank 05
@@ -56,14 +56,14 @@ So, grab a cup of coffee ☕, find a comfy spot, and start exploring the subject
 | CPP Module 07 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP07/en.subject.pdf) | N/A | [🔗 Main file](./Cursus/CPP_Modules/CPP07/Extras/) |
 | CPP Module 08 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP08/en.subject.pdf) | N/A | N/A |
 | CPP Module 09 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Modules/CPP09/en.subject.pdf) | N/A | [🔗 Compressed project file](./Cursus/CPP_Modules/CPP09/Extras/) |
-| Ft_irc | [🇬🇧 en.subject.pdf](./Cursus/Ft_irc/en.subject.pdf) | N/A | [🔗 IRC server file](./Cursus/Ft_irc/Extras/) |
-| Inception | [🇬🇧 en.subject.pdf](./Cursus/Inception/en.subject.pdf) | N/A | N/A |
+| Ft_irc | [🇬🇧 en.subject.pdf](./Cursus/ft_irc/en.subject.pdf) | N/A | [🔗 IRC server file](./Cursus/ft_irc/Extras/) |
+| Inception | [🇬🇧 en.subject.pdf](./Cursus/inception/en.subject.pdf) | N/A | N/A |
 | Webserv | [🇬🇧 en.subject.pdf](./Cursus/Webserv/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Webserv/fr.subject.pdf) | [🔗 Testers](./Cursus/Webserv/Extras/) |
 
 ### Rank 06
 | Project | English PDF | French PDF | Additional Resources |
 |---------|-------------|------------|----------------------|
-| Ft_transcendence | [🇬🇧 en.subject.pdf](./Cursus/Ft_transcendence/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Ft_transcendence/fr.subject.pdf) | N/A |
+| Ft_transcendence | [🇬🇧 en.subject.pdf](./Cursus/ft_transcendence/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/ft_transcendence/fr.subject.pdf) | N/A |
 
 ### Additional Learning Resources
 
