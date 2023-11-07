@@ -1,81 +1,78 @@
-# 42 School Projects
+# Welcome to the 42 School Curriculum Repository! 🚀
 
-Welcome to the 42 School Projects Repository! This repository serves as a comprehensive collection of useful PDFs and files for projects at 42 School. It provides easy access to subject PDFs for various ranks and modules during the cursus.
+Hello, World! 🌍 Welcome to a hub of knowledge and resources for 42 School students. Whether you're braving the chill of a 'freeze' period or just in quest of extra knowledge, this repository is your cozy corner in the vast universe of coding! 🛸✨
 
-Whether you're a student at 42 School or simply interested in exploring the projects, this repository is designed to be a centralized resource for accessing project materials. The subjects are organized by rank, and both English and French versions of the subject PDFs are available.
+Inside, you'll discover a treasure trove of project PDFs in English and French, alongside helpful files to guide your coding quests. 📚🇫🇷🇬🇧
 
-Feel free to browse the repository and make use of the subject PDFs for your studies, references, or personal projects. Enjoy exploring the world of 42 School projects!
+So, grab a cup of coffee ☕, find a comfy spot, and start exploring the subjects. Happy learning, and remember, in the realm of code, every challenge is a stepping stone to greatness! 💻🚀
 
-## Table of Contents 📑
-
-- [Subjects](#subjects)
-  - [Rank 00](#rank-00)
-  - [Rank 01](#rank-01)
-  - [Rank 02](#rank-02)
-  - [Rank 03](#rank-03)
-  - [Rank 04](#rank-04)
-  - [Rank 05](#rank-05)
-  - [Rank 06](#rank-06)
-
-## Subjects 📚
-
-The following sections provide links to subject PDFs organized by their respective ranks.
+## Curriculum Overview by Rank
 
 ### Rank 00
-
-- [Libft](Subjects/Rank00/Libft/en.subject.pdf)
+| Project | English PDF | French PDF | Additional Resources |
+|---------|-------------|------------|----------------------|
+| Libft | [🇬🇧 en.subject.pdf](./Cursus/Libft/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Libft/fr.subject.pdf) | N/A |
 
 ### Rank 01
-
-- [born2beroot](Subjects/Rank01/born2beroot/en.subject.pdf)
-- [ft_printf](Subjects/Rank01/ft_printf/en.subject.pdf)
-- [get_next_line](Subjects/Rank01/get_next_line/en.subject.pdf)
+| Project | English PDF | French PDF | Additional Resources |
+|---------|-------------|------------|----------------------|
+| Born2beroot | [🇬🇧 en.subject.pdf](./Cursus/Born2beroot/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Born2beroot/fr.subject.pdf) | N/A |
+| Ft_printf | [🇬🇧 en.subject.pdf](./Cursus/Ft_printf/en.subject.pdf) | N/A | N/A |
+| Get_next_line | [🇬🇧 en.subject.pdf](./Cursus/Get_next_line/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Get_next_line/fr.subject.pdf) | N/A |
 
 ### Rank 02
-
-- [FdF](Subjects/Rank02/FdF/en.subject.pdf)
-- [fract-ol](Subjects/Rank02/fract-ol/en.subject.pdf)
-- [minitalk](Subjects/Rank02/minitalk/en.subject.pdf)
-- [pipex](Subjects/Rank02/pipex/en.subject.pdf)
-- [push_swap](Subjects/Rank02/push_swap/en.subject.pdf)
-- [so_long](Subjects/Rank02/so_long/en.subject.pdf)
+| Project | English PDF | French PDF | Additional Resources |
+|---------|-------------|------------|----------------------|
+| FdF | [🇬🇧 en.subject.pdf](./Cursus/FdF/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/FdF/fr.subject.pdf) | [🔗 maps.zip, source files](./Cursus/FdF/) |
+| Fract-ol | [🇬🇧 en.subject.pdf](./Cursus/Fract-ol/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Fract-ol/fr.subject.pdf) | [🔗 minilibx files](./Cursus/Fract-ol/) |
+| Minitalk | [🇬🇧 en.subject.pdf](./Cursus/Minitalk/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Minitalk/fr.subject.pdf) | N/A |
+| Pipex | [🇬🇧 en.subject.pdf](./Cursus/Pipex/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Pipex/fr.subject.pdf) | N/A |
+| Push_swap | [🇬🇧 en.subject.pdf](./Cursus/Push_swap/en.subject.pdf) | N/A | N/A |
+| So_long | [🇬🇧 en.subject.pdf](./Cursus/So_long/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/So_long/fr.subject.pdf) | [🔗 minilibx files](./Cursus/So_long/) |
 
 ### Rank 03
-
-- [Minishell](Subjects/Rank03/Minishell/en.subject.pdf)
-- [Philosophers](Subjects/Rank03/Philosophers/en.subject.pdf)
+| Project | English PDF | French PDF | Additional Resources |
+|---------|-------------|------------|----------------------|
+| Minishell | [🇬🇧 en.subject.pdf](./Cursus/Minishell/en.subject.pdf) | N/A | N/A |
+| Philosophers | [🇬🇧 en.subject.pdf](./Cursus/Philosophers/en.subject.pdf) | N/A | N/A |
 
 ### Rank 04
-
-#### CPP_Modules
-
-- [CPP00](Subjects/Rank04/CPP_Modules/CPP00/en.subject.pdf)
-- [CPP01](Subjects/Rank04/CPP_Modules/CPP01/en.subject.pdf)
-- [CPP02](Subjects/Rank04/CPP_Modules/CPP02/en.subject.pdf)
-- [CPP03](Subjects/Rank04/CPP_Modules/CPP03/en.subject.pdf)
-- [CPP04](Subjects/Rank04/CPP_Modules/CPP04/en.subject.pdf)
-- [CPP05](Subjects/Rank04/CPP_Modules/CPP05/en.subject.pdf)
-- [CPP06](Subjects/Rank04/CPP_Modules/CPP06/en.subject.pdf)
-- [CPP07](Subjects/Rank04/CPP_Modules/CPP07/en.subject.pdf)
-- [CPP08](Subjects/Rank04/CPP_Modules/CPP08/en.subject.pdf)
-- [CPP09](Subjects/Rank04/CPP_Modules/CPP09/en.subject.pdf)
-
-#### Others
-
-- [cub3d](Subjects/Rank04/cub3d/en.subject.pdf)
-- [miniRT](Subjects/Rank04/miniRT/en.subject.pdf)
-- [NetPractice](Subjects/Rank04/NetPractice/en.subject.pdf)
+| Project | English PDF | French PDF | Additional Resources |
+|---------|-------------|------------|----------------------|
+| CPP Module 00 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP00/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/CPP_Module/CPP00/fr.subject.pdf) | [🔗 Test file, Account header](./Cursus/CPP_Module/CPP00/) |
+| CPP Module 01 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP01/en.subject.pdf) | N/A | N/A |
+| CPP Module 02 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP02/en.subject.pdf) | N/A | N/A |
+| CPP Module 03 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP03/en.subject.pdf) | N/A | N/A |
+| CPP Module 04 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP04/en.subject.pdf) | N/A | N/A |
+| Cub3d | [🇬🇧 en.subject.pdf](./Cursus/Cub3d/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Cub3d/fr.subject.pdf) | [🔗 minilibx files](./Cursus/Cub3d/) |
+| MiniRT | [🇬🇧 en.subject.pdf](./Cursus/MiniRT/en.subject.pdf) | N/A | [🔗 minilibx files](./Cursus/MiniRT/) |
+| NetPractice | [🇬🇧 en.subject.pdf](./Cursus/NetPractice/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/NetPractice/fr.subject.pdf) | [🔗 Practice files](./Cursus/NetPractice/) |
 
 ### Rank 05
-
-- [ft_irc](Subjects/Rank05/ft_irc/en.subject.pdf)
-- [Inception](Subjects/Rank05/Inception/en.subject.pdf)
-- [webserv](Subjects/Rank05/webserv/en.subject.pdf)
+| Project | English PDF | French PDF | Additional Resources |
+|---------|-------------|------------|----------------------|
+| CPP Module 05 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP05/en.subject.pdf) | N/A | N/A |
+| CPP Module 06 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP06/en.subject.pdf) | N/A | N/A |
+| CPP Module 07 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP07/en.subject.pdf) | N/A | [🔗 Main file](./Cursus/CPP_Module/CPP07/) |
+| CPP Module 08 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP08/en.subject.pdf) | N/A | N/A |
+| CPP Module 09 | [🇬🇧 en.subject.pdf](./Cursus/CPP_Module/CPP09/en.subject.pdf) | N/A | [🔗 Compressed project file](./Cursus/CPP_Module/CPP09/) |
+| Ft_irc | [🇬🇧 en.subject.pdf](./Cursus/Ft_irc/en.subject.pdf) | N/A | [🔗 IRC server file](./Cursus/Ft_irc/) |
+| Inception | [🇬🇧 en.subject.pdf](./Cursus/Inception/en.subject.pdf) | N/A | N/A |
+| Webserv | [🇬🇧 en.subject.pdf](./Cursus/Webserv/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Webserv/fr.subject.pdf) | [🔗 Testers](./Cursus/Webserv/) |
 
 ### Rank 06
+| Project | English PDF | French PDF | Additional Resources |
+|---------|-------------|------------|----------------------|
+| Ft_transcendence | [🇬🇧 en.subject.pdf](./Cursus/Ft_transcendence/en.subject.pdf) | [🇫🇷 fr.subject.pdf](./Cursus/Ft_transcendence/fr.subject.pdf) | N/A |
 
-- [ft_transcendence](Subjects/Rank06/ft_transcendence/en.subject.pdf)
+### Additional Learning Resources
 
-## Notes 📝
+For a comprehensive understanding of project requirements, the [42-Evals](https://github.com/42-Evals) repository is an invaluable resource. It contains official evaluation sheets for 42 School projects that complement the materials found here. You can also view these resources through their [GitHub Pages](https://rphlr.github.io/42-Evals).
 
-- For each project, both English and French versions of the subject PDFs are available in the same folder.
+Remember, this repository is constantly evolving, and I welcome your contributions to keep it up-to-date. If you find a project PDF missing or want to add an other language version, don't hesitate to open a pull request!
+
+Happy learning, and may your code compile smoothly on the first try! 🎉
+
+### Support the Repository
+
+If you find this repository useful, please consider giving it a star on GitHub. This helps increase its visibility and supports the community in finding these resources more easily. Thank you for your support! 🙏
