@@ -73,6 +73,24 @@ Remember, this repository is constantly evolving, and I welcome your contributio
 
 Happy learning, and may your code compile smoothly on the first try! 🎉
 
+<b>Funny Stats 📊</b>
+
+  **Last stargazer:**
+
+  <!--last_stargazer_start-->
+[![Last Stargazer](https://avatars.githubusercontent.com/u/91622567?v=4&s=250)](https://github.com/melanieyanez)
+<!--last_stargazer_end-->
+  
+  Thanks to <!--name_start-->[melanieyanez](https://github.com/melanieyanez)<!--name_end--> for starring the repository! 🎉
+
+  **Updates occur hourly. Last update :** <!--date_start-->16.11.2023, 17:09:47<!--date_end--> (CET)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rphlr/42-Subjects&type=Date)](https://star-history.com/#rphlr/42-Subjects&Date)
+
+  More stats are coming soon! 🤖
+
+---
+
 ### Support the Repository
 
 If you find this repository useful, please consider giving it a star on GitHub. This helps increase its visibility and supports the community in finding these resources more easily. Thank you for your support! 🙏
