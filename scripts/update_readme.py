@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import re
 
 PERSONAL_ACCESS_TOKEN = os.getenv('PERSONAL_ACCESS_TOKEN')
-REPO_NAME = "rphlr/42-Evals"
+REPO_NAME = "rphlr/42-Subjects"
 
 def get_latest_stargazer_info(repo_name):
     g = Github(PERSONAL_ACCESS_TOKEN)
